@@ -61,7 +61,7 @@ Below is the current CAD design of the robot.
 
 ## Arranged Parts
 
-Blank space for the arranged parts photo.
+
 <img width="835" height="576" alt="arranged parts" src="https://github.com/user-attachments/assets/b39f0509-baff-4d99-9d17-59eca3a780a4" />
 
 ## Component List
