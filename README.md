@@ -87,8 +87,10 @@ Below is the current CAD design of the robot.
 - **3.7 V 1000 mAh Li-Po Battery**  
   Used as a compact battery source for low-current electronics or testing circuits.
 ## Wiring
+<img width="1157" height="826" alt="image" src="https://github.com/user-attachments/assets/8f783785-2057-4a1a-9a7e-a682234dafab" />
 
-<img width="782" height="685" alt="image" src="https://github.com/user-attachments/assets/2d78a191-fc21-408c-b8cb-2530e2159f6c" />
+<img width="1403" height="752" alt="image" src="https://github.com/user-attachments/assets/2fa1d2c7-6ea3-4e17-b838-adc1cf1c835e" />
+
 
 
 ## Current Status
